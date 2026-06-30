@@ -4,7 +4,7 @@ This repository contains the solution for the **Homework 2 (Containerization)** 
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The project is structured into two main deployment stages:
 1. **Local Deployment:** Running the Nginx container on a local machine (macOS) via Docker Desktop, accessible at `http://localhost:8080`.
@@ -12,14 +12,14 @@ The project is structured into two main deployment stages:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 * `index.html`: A static HTML file displaying a custom welcome message: *"Hello from i2i Academy Docker Container!"*.
 * `docker-compose.yml`: A multi-container orchestration configuration file that defines the Nginx service, port mappings, and volume mounts.
 
 ---
 
-## 🛠️ Configuration Details
+##  Configuration Details
 
 ### 1. Docker Compose Setup
 The `docker-compose.yml` file is configured as follows:
